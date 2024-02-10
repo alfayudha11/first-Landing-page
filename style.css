@@ -1,0 +1,14 @@
+body{
+    background-color: darkgrey;
+}
+.navbar a{
+    font-size: 20px;
+    font-family: "work"sans-serif;
+    margin-right: 30px;
+    font-style: normal;
+}
+section{
+    margin-top: 1rem;
+    margin-left: 3rem;
+   
+}
