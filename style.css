@@ -18,6 +18,11 @@ section{
     padding: auto;
     padding: 3rem;
     max-width: 48;
-    max-height: 48;;
+    max-height: 48;
+    left: 0;
+    position: absolute;
+    height: 400px;
+    width: 500px;
+    
 }
 
